@@ -27,3 +27,10 @@ https://fonts.google.com/specimen/Source+Serif+Pro
 ZILLA SLAB
 https://github.com/mozilla/zilla-slab
 
+MORE GOOGLE FONTS
+https://fonts.google.com/specimen/UnifrakturCook#glyphs
+
+CHOMSKY
+https://www.fontspace.com/chomsky-font-f33189
+https://github.com/ctrlcctrlv/chomsky
+
