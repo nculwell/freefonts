@@ -5,3 +5,25 @@ https://github.com/coz-m/MPLUS_FONTS/tree/master/fonts/ttf
 HACK
 https://sourcefoundry.org/hack/
 
+NOTO FONTS
+https://fonts.google.com/noto/fonts
+
+ROBOTO
+https://github.com/googlefonts/roboto
+https://fonts.google.com/specimen/Roboto
+https://fonts.google.com/specimen/Roboto+Condensed
+https://fonts.google.com/specimen/Roboto+Slab
+
+PT
+https://fonts.google.com/?query=ParaType
+
+IBM PLEX
+https://fonts.google.com/?query=Mike+Abbink
+
+ADOBE SOURCE
+https://fonts.google.com/specimen/Source+Code+Pro
+https://fonts.google.com/specimen/Source+Serif+Pro
+
+ZILLA SLAB
+https://github.com/mozilla/zilla-slab
+
